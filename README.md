@@ -5,3 +5,4 @@ Content Share GO
 # 开发环境配置
 开发工具: IDEA
 数据库: MYSQL
+# 文件结构
